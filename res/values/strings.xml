@@ -190,8 +190,8 @@
     <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
 
     <!-- OnePLus specific Strings -->
-    <string name="device_title">OnePlus Settings</string>
-    <string name="device_summary">Adjust OnePlus specific device settings</string>
+    <string name="device_title">Advanced Device Settings</string>
+    <string name="device_summary">Adjust device specific settings</string>
 
     <!-- Display modes -->
     <string name="display_title">Display modes</string>
