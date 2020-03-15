@@ -155,6 +155,7 @@
     <string name="action_none">Disable</string>
     <string name="action_launch_camera">Launch camera</string>
     <string name="action_torch">Toggle torch</string>
+    <string name="action_wake_display">Wakeup display</string>
 
     <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Haptic feedback intensity</string>
