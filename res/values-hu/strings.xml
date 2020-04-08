@@ -67,9 +67,13 @@
     <string name="pulse_ambient_light_title">Szélek megvilágítása</string>
     <string name="pulse_ambient_light_summary">A képernyő oldalsó széleit világítsa meg az értesítés villogó jelzése</string>
     <string name="pulse_ambient_light_color_title">A szélek megvilágításának színe</string>
-    <string name="pulse_ambient_light_duration_title">Időtartam</string>
-    <string name="pulse_ambient_light_auto_color_title">Automatikus szín</string>
-    <string name="pulse_ambient_light_auto_color_summary">Állítsa a szélek megvilágítási színét a háttérkép elsődleges színéhez</string>
+    <string name="pulse_ambient_light_color_mode_title">A fény színe</string>
+    <string name="pulse_ambient_light_color_mode_wall">Automatikus (háttérképfüggő)</string>
+    <string name="pulse_ambient_light_color_mode_accent">Kiemelőszín</string>
+    <string name="pulse_ambient_light_color_mode_custom">Egyéni</string>
+    <string name="pulse_ambient_light_duration_title">A fény hossza</string>
+    <string name="pulse_ambient_light_repeat_count_title">Ismétlésszám</string>
+    <string name="pulse_ambient_light_repeat_count_summary">A maximális ismétlésszám beállítása. Nullától végtelenig</string>
     <string name="tilt_sensor_title">Döntésérzékelő</string>
     <string name="pickup_sensor_title">Felemelés-érzékelő</string>
     <string name="proximity_sensor_title">Közelségérzékelő</string>
@@ -122,8 +126,8 @@
     <string name="fingerprint_sleep_summary">Kikapcsolhatja a képernyőt az ujjlenyomat-érzékelő megnyomásával</string>
     <string name="high_touch_sensitivity_title">Magas érintési érzékenység</string>
     <string name="high_touch_sensitivity_summary">Érintőképernyő érzékenységének növelése, így kesztyű viselése esetén is használható</string>
-    <string name="device_title">OnePlus beállítások</string>
-    <string name="device_summary">OnePlus specifikus készülékbeállítások</string>
+    <string name="device_title">Speciális készülékbeállítások</string>
+    <string name="device_summary">Készülékfüggő beállítások alkalmazása</string>
     <string name="display_title">Megjelenítési módok</string>
     <string name="display_summary">A Kijelzőbeállítások finomhangolása</string>
     <string name="srgb_mode_title">sRGB-mód</string>
@@ -156,4 +160,10 @@
     <string name="vib_call_strength_summary_head">A rezgéserősség beállítása bejövő hívások jelzéséhez</string>
     <string name="vib_notif_strength_title_head">Értesítésjelzési erősség</string>
     <string name="vib_notif_strength_summary_head">A rezgéserősség beállítása bejövő értesítések jelzéséhez</string>
+    <string name="pulse_on_new_tracks_title">Ambient Music-jelzőszalag</string>
+    <string name="pulse_on_new_tracks_summary">A Környezeti kijelző megjelenítése, ha új zeneszám kerül lejátszásra</string>
+    <string name="quick_charge_title">Gyorstöltés</string>
+    <string name="quick_charge_summary">A gyorstöltés kapcsolója. Ha megváltoztatta ezt a beállítást, utána csatlakoztassa le, majd újra fel a készüléket</string>
+    <string name="camera_focus_fix_title">Rögzített fókusz</string>
+    <string name="camera_focus_fix_summary">Akkor engedélyezze ezt, ha a készülék kamerája nem képes fókuszálni</string>
 </resources>
