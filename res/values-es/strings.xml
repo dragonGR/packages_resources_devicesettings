@@ -74,6 +74,8 @@
     <string name="pulse_ambient_light_duration_title">Duración del efecto</string>
     <string name="pulse_ambient_light_repeat_count_title">Número de repeticiones</string>
     <string name="pulse_ambient_light_repeat_count_summary">Establecer número máximo de repeticiones. 0 para infinito</string>
+    <string name="pulse_ambient_light_repeat_direction_title">Dirección de repeticiones</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">Habilitar para invertir la dirección de la repetición, deshabilitar para reiniciar</string>
     <string name="tilt_sensor_title">Sensor de inclinación</string>
     <string name="pickup_sensor_title">Sensor de recogida</string>
     <string name="proximity_sensor_title">Sensor de proximidad</string>

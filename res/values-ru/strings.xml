@@ -74,6 +74,8 @@
     <string name="pulse_ambient_light_duration_title">Длительность свечения</string>
     <string name="pulse_ambient_light_repeat_count_title">Количество повторений</string>
     <string name="pulse_ambient_light_repeat_count_summary">Установить максимальное количество повторений. 0 для бесконечного</string>
+    <string name="pulse_ambient_light_repeat_direction_title">Повторить направление</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">Включить для обратного повтора направления, отключить для перезапуска</string>
     <string name="tilt_sensor_title">Датчик наклона</string>
     <string name="pickup_sensor_title">Датчик подъёма</string>
     <string name="proximity_sensor_title">Датчик приближения</string>

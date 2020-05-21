@@ -74,6 +74,8 @@
     <string name="pulse_ambient_light_duration_title">持续时间</string>
     <string name="pulse_ambient_light_repeat_count_title">重复次数</string>
     <string name="pulse_ambient_light_repeat_count_summary">设置最大重复次数，0 表示无限</string>
+    <string name="pulse_ambient_light_repeat_direction_title">重复方向</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">启用反向重复方向，禁用以重新启动</string>
     <string name="tilt_sensor_title">倾斜传感器</string>
     <string name="pickup_sensor_title">拿起传感器</string>
     <string name="proximity_sensor_title">距离传感器</string>
