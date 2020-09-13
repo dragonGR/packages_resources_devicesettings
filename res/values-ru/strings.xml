@@ -68,7 +68,7 @@
     <string name="pulse_ambient_light_summary">Подсвечивать края экрана при пульсации уведомлений</string>
     <string name="pulse_ambient_light_color_title">Цвет подсветки краёв</string>
     <string name="pulse_ambient_light_color_mode_title">Цвет свечения</string>
-    <string name="pulse_ambient_light_color_mode_wall">Автоматический (на основе обоев)</string>
+    <string name="pulse_ambient_light_color_mode_wall">На основе обоев</string>
     <string name="pulse_ambient_light_color_mode_accent">Акцент</string>
     <string name="pulse_ambient_light_color_mode_custom">Пользовательский</string>
     <string name="pulse_ambient_light_duration_title">Длительность свечения</string>
@@ -76,6 +76,9 @@
     <string name="pulse_ambient_light_repeat_count_summary">Установить максимальное количество повторений. 0 для бесконечного</string>
     <string name="pulse_ambient_light_repeat_direction_title">Повторить направление</string>
     <string name="pulse_ambient_light_repeat_direction_summary">Включить для обратного повтора направления, отключить для перезапуска</string>
+    <string name="pulse_ambient_light_color_automatic_title">Использовать цвет уведомлений</string>
+    <string name="pulse_ambient_light_color_automatic_summary">Использовать цвет уведомлений приложений для свечения краёв</string>
+    <string name="pulse_ambient_light_width_title">Ширина свечения</string>
     <string name="tilt_sensor_title">Датчик наклона</string>
     <string name="pickup_sensor_title">Датчик подъёма</string>
     <string name="proximity_sensor_title">Датчик приближения</string>

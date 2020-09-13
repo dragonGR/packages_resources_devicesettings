@@ -68,7 +68,7 @@
     <string name="pulse_ambient_light_summary">Enciende los bordes de la pantalla al recibir una notificación</string>
     <string name="pulse_ambient_light_color_title">Color del borde</string>
     <string name="pulse_ambient_light_color_mode_title">Color del Led</string>
-    <string name="pulse_ambient_light_color_mode_wall">Automático (Basado en el fondo de pantalla)</string>
+    <string name="pulse_ambient_light_color_mode_wall">Basado en el Fondo de Pantalla</string>
     <string name="pulse_ambient_light_color_mode_accent">Principal</string>
     <string name="pulse_ambient_light_color_mode_custom">Personalizado</string>
     <string name="pulse_ambient_light_duration_title">Duración del efecto</string>
@@ -76,6 +76,9 @@
     <string name="pulse_ambient_light_repeat_count_summary">Establecer número máximo de repeticiones. 0 para infinito</string>
     <string name="pulse_ambient_light_repeat_direction_title">Dirección de repeticiones</string>
     <string name="pulse_ambient_light_repeat_direction_summary">Habilitar para invertir la dirección de la repetición, deshabilitar para reiniciar</string>
+    <string name="pulse_ambient_light_color_automatic_title">Usar color de notificación</string>
+    <string name="pulse_ambient_light_color_automatic_summary">Usar el color de las notificaciones de la aplicación para la iluminación del borde</string>
+    <string name="pulse_ambient_light_width_title">Ancho de la iluminación</string>
     <string name="tilt_sensor_title">Sensor de inclinación</string>
     <string name="pickup_sensor_title">Sensor de recogida</string>
     <string name="proximity_sensor_title">Sensor de proximidad</string>

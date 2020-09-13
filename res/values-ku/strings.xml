@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="switch_bar_on">کارا</string>
+    <string name="switch_bar_off">ناکارا</string>
+    <string name="device_settings_app_name">ڕێکخستنی پەرەسەندوو</string>
+    <string name="screen_gestures_panel_title">جوڵانه‌کان</string>
+    <string name="touchscreen_gesture_extras">زێدەکان</string>
+    <string name="touchscreen_gesture_haptic_feedback">وڵامدانەوەی دەسلێدان</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">لەرینەوە لەکاتی پێزانینی جوڵاندنی پەنجە لەسەر ڕوونما</string>
+    <string name="touchscreen_gesture_settings_title">جوڵانەکانی دەسلێدانی ڕوونما</string>
+    <string name="touchscreen_gesture_settings_summary">ئەنجامدانی جوڵانەوەی هەمەجۆری دەسلێدان بۆ کردە خێراکان</string>
+    <string name="gesture_display_title">جوڵانەوەکانی ڕوونماداخراو</string>
+    <string name="touchscreen_c_gesture_title">کامێرا</string>
+    <string name="touchscreen_c_gesture_summary">\'C\' بکێشە بۆ چالاککردنی کامێرا</string>
+    <string name="touchscreen_e_gesture_title">ئیمەیڵ</string>
+    <string name="touchscreen_e_gesture_summary">\"e\" بکێشە بۆ کردنەوەی ئەپی ئیمەیڵ</string>
+    <string name="touchscreen_m_gesture_title">نامەکان</string>
+    <string name="touchscreen_m_gesture_summary">\"M\" بکێشە بۆ کردنەوەی ئەپی نامەکان</string>
+    <string name="touchscreen_s_gesture_title">نامەکان</string>
+    <string name="touchscreen_s_gesture_summary">\"S\" بکێشە بۆ کردنەوەی ئەپی نامەکان</string>
+    <string name="touchscreen_v_gesture_title">پەیوەندی</string>
+    <string name="touchscreen_v_gesture_summary">\"V\" بکێشە بۆ کردنەوەی ئەپی پەیوەندی</string>
+    <string name="touchscreen_w_gesture_title">وێبگەر</string>
+    <string name="touchscreen_w_gesture_summary">\"W\" بکێشە بۆ کردنەوەی ئەپی وێبگەر</string>
+    <string name="touchscreen_z_gesture_title">فلاش لایت</string>
+    <string name="touchscreen_z_gesture_summary">\"Z\" بکێشە بۆ کاراکردنی فلاش لایت</string>
+    <string name="touchscreen_flashlight_gesture_title">فلاش لایت</string>
+    <string name="touchscreen_flashlight_gesture_summary">بازنەیەک بکێشە بۆ کاراکردنی فلاش لایت</string>
+    <string name="touchscreen_music_gesture_title">میوزیک</string>
+    <string name="touchscreen_music_gesture_summary">جوڵەکان بەکاربهێنە بۆ کۆنتڕۆڵکردنی کارپێکەری میوزیک \n
+    • ڕاکێشان بۆ خوارەوە بۆ لێدان/ڕاگرتن\n
+    • ڕاکێشان بۆ چەپ بۆ گێڕانەوە بۆ تراکی پێشوو\n
+    • ڕاکێشان بۆ ڕاست بۆ تراکی دواتر</string>
+    <string name="touchscreen_swipe_up_title">ڕاکێشانە سەرەوە</string>
+    <string name="touchscreen_swipe_right_title">ڕاکێشان بۆلای ڕاست</string>
+    <string name="touchscreen_swipe_down_title">ڕاکێشان بۆ خوارەوە</string>
+    <string name="touchscreen_swipe_left_title">ڕاکێشان بۆ لای چەپ</string>
+    <string name="user_aware_display_title">پیشاندانی بەئاگا-بەکارهێنەر</string>
+    <string name="user_aware_display_summary">هێشتنەوە ڕوونما بەچالاکی کاتێ بەکاربەر تەماشای ڕوونما ئەکات</string>
+    <string name="ambient_display_title">ڕوونمای زیندوو</string>
+    <string name="ambient_display_enable_title">ڕوونمای زیندوو</string>
+    <string name="ambient_display_enable_summary">هەڵبوونی ڕوونما کاتی پێگەیشتنی ئاگانامەکان</string>
+    <string name="ambient_display_gestures_title">جوڵانەکانی ڕوونمای زیندوو</string>
+    <string name="ambient_display_gestures_summary">جووڵەی زیادکراو بۆ هەڵکردنی ڕوونما</string>
+    <string name="ambient_display_summary">هەڵبوونی ڕوونما کاتی پێگەیشتنی ئاگانامەکان</string>
+    <string name="ambient_display_summary_on">ڕوونماکەت هەڵدەبێت لەکاتی هاتنی هەر ئاگانامەیەک</string>
+    <string name="ambient_display_summary_off">ڕوونماکەت هەڵنابێت لەکاتی هاتنی هەر ئاگانامەیەک</string>
+    <string name="ambient_display_always_on_title">هه‌میشه‌ کراوه‌</string>
+    <string name="ambient_display_always_on_summary">پیشاندانی کات، ئاگانامەکان ، زانیارییەکانیتر.
+ووزەی زیاتری پاتری بەکاردەبات.</string>
+    <string name="pulse_ambient_light_enable_title">ڕۆشنکەرەوەی لێوارەکان</string>
+    <string name="pulse_ambient_light_title">ڕۆشنکەرەوەی لێوار</string>
+    <string name="pulse_ambient_light_summary">لێوارەکان ڕۆشن ئەبنەوە کاتی پێگەیشتنی ئاگانامەکان</string>
+    <string name="pulse_ambient_light_color_title">ڕەنگی ڕۆشنایی لێوار</string>
+    <string name="pulse_ambient_light_color_mode_title">ڕەنگی ڕۆشنایی</string>
+    <string name="pulse_ambient_light_color_mode_wall">بەپێی پاشبنەما</string>
+    <string name="pulse_ambient_light_color_mode_accent">شێوە</string>
+    <string name="pulse_ambient_light_color_mode_custom">خۆکرد</string>
+    <string name="pulse_ambient_light_duration_title">ماوەی ڕۆشنایی</string>
+    <string name="pulse_ambient_light_repeat_count_title">دووبارەکردنەوە ژمارەیی</string>
+    <string name="pulse_ambient_light_repeat_count_summary">دانانی بەرزترین ژمارەی دووبارەکردنەوە. 0 تا ناکۆتایی</string>
+    <string name="pulse_ambient_light_repeat_direction_title">ئاڕاستەی دووبارەکردنەوە</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">چالاکی بکە بۆ گێڕانەوەی ئاڕاستەی دووبارەکراو، ناچالاکی بکە بۆ هەڵبوونەوە</string>
+    <string name="pulse_ambient_light_color_automatic_title">بەکارهێنانی ڕەنگی ئاگانامە</string>
+    <string name="pulse_ambient_light_color_automatic_summary">بەکارهێنانی ڕەنگی ئاگانامەی ئەپەکان بۆ ڕۆشنایی لێوار</string>
+    <string name="pulse_ambient_light_width_title">پانی ڕۆشنایی</string>
+    <string name="tilt_sensor_title">بادانی هەستەوەر</string>
+    <string name="pickup_sensor_title">هەستەوەری هەڵگرتن</string>
+    <string name="proximity_sensor_title">هەستەوەری نزیکی</string>
+    <string name="hand_wave_gesture_title">دەست راوەشاندن</string>
+    <string name="hand_wave_gesture_summary">دەرکەوتنی ئاگانامەکان لەکاتی دەست ڕاوەشاندندا</string>
+    <string name="hand_wave_gesture_flat_title">پێزانینی ئاڕاستەکردن</string>
+    <string name="hand_wave_gesture_flat_summary">دەرکەوتن تەنها ئەوکاتەی مۆبایلەکە هەڵدەگیرێتەوە</string>
+    <string name="pick_up_gesture_title">هەڵگرتن</string>
+    <string name="pick_up_gesture_summary">دەرکەوتنی ئاگانامەکان لەکاتی هەڵگرتندا</string>
+    <string name="pocket_gesture_title">گیرفان</string>
+    <string name="pocket_gesture_summary">دەرکەوتنی ئاگانامەکان لەکاتی دەرهێنان لە گیرفان</string>
+    <string name="proximity_wake_title">هەڵبوونی نزیکی</string>
+    <string name="proximity_wake_enable_title">هەڵبوونی نزیکی</string>
+    <string name="proximity_wake_enable_summary">هەڵبوونی ڕوونما لەکاتی دەست ڕاوەشاندن</string>
+    <string name="actions_title">کردارەکان</string>
+    <string name="camera_gesture_title">دووجار-بادان</string>
+    <string name="camera_gesture_summary">کردنەوەی کامێرا لەکاتی دووجار بادانی ئامێر</string>
+    <string name="chop_chop_gesture_title">پارچە-پارچە</string>
+    <string name="chop_chop_gesture_summary">هەڵکردنی فلاش لەکاتی بەکارهێنانی جوڵەی پارچە-پارچە</string>
+    <string name="hand_wave_silencer_title">ڕاوەشاندن بۆ کپکردن</string>
+    <string name="hand_wave_silencer_summary">کپکردنی پەیوەندی هاتوو لەڕێی دەست ڕاوەشاندن لەسەر ڕوونماکە</string>
+    <string name="flip_to_mute_title">هەڵگەڕاندنەوە بۆ دۆخی هەراسانم مەکە</string>
+    <string name="flip_to_mute_summary">مۆبایلەکە ڕوو لە زەوی بکە بۆ کپکردنی ئاگانامە و پەیوەندییەکان</string>
+    <string name="dnd_access">تکایە، ڕێ بە هەراسانم مەکە بدە بۆ گەیشتن بە CMActions بۆ بەکارهێنانی ئەم تایبەتمەندییە.</string>
+    <string name="lift_to_silence_title">هەڵیگرە بۆ وەستاندنی زەنگ لێدان</string>
+    <string name="lift_to_silence_summary">مۆبایلەکەت بەرزکەرەوە بۆ کپکردنی پەیوەندییە هاتووەکان. تەنها لەوکاتەدا کارئەکات کە مۆبایلەکەت لە تەختیدا بێت</string>
+    <string name="action_none">لەکارخستن</string>
+    <string name="action_launch_camera">چوونەنێو کامێرا</string>
+    <string name="action_torch">هەڵکردنی فلاش</string>
+    <string name="feedback_intensity_title">توندی وڵامدەرەوەی لەرینەوە</string>
+    <string name="feedback_intensity_summary">توندی وڵامدەرەوەی لەرینەوە لەکاتی کردەکانی ڕاوەشاندن و پارچە پارچە</string>
+    <string name="feedback_intensity_none">لەکارخراوە</string>
+    <string name="feedback_intensity_low">نزم</string>
+    <string name="feedback_intensity_medium">ناوەند</string>
+    <string name="feedback_intensity_high">به‌رز</string>
+    <string name="dialog_ok">باشە</string>
+    <string name="doze_settings_help_title">یارمەتی</string>
+    <string name="doze_settings_help_text">ئەو تایبەتمەندییانە هەستەوەرەکان بەکاردەهێنن بۆ دەرکەوتنی ئاگانامەی وەنەوزدراو. هەستەوەری هەڵبژێردراو تەنها کاتێ چالاک ئەبێ کە مۆبایلەکەت ئاگانامەیەکی پێبگات، ئەمەش یارمەتیدەرە بۆ کەم بەفیڕۆچوونی ووزە. بەهەمان شێوە بژاردەیەکیتر هەیە کە هەستەوەرەکە لەکاتی کوژانەوەی ڕوونما چالاک دەکات، بەڵام ئەمەیان ووزەیەکی زۆر بەفیڕۆ ئەدات.</string>
+    <string name="button_panel_title">دوگمە پاشکۆکان</string>
+    <string name="button_swap_title">ئاڵوگۆڕی دوگمەکان</string>
+    <string name="button_swap_summary">ئاڵوگۆڕی شوێنی دوگمەی دواین ئەپەکان و گەڕانەوە</string>
+    <string name="fingerprint_title">په‌نجه‌مۆر</string>
+    <string name="fingerprint_as_home_title">پەنجەمۆر وەک ماڵەوە</string>
+    <string name="fingerprint_as_home_summary">هەستەوەری پەنجەمۆر بەکاربهێنە وەک دوگمەی ماڵەوە</string>
+    <string name="fingerprint_wakeup_title">هەڵبوون بە پەنجەمۆر</string>
+    <string name="fingerprint_wakeup_summary">ڕێدان بە پەنجەمۆر بۆ هەڵکردنی ڕوونما کاتێ ڕوونما داخرابێت</string>
+    <string name="fingerprint_pocketmode_title">ڕێگیری لە هەڵبوونی بەهەڵە</string>
+    <string name="fingerprint_pocketmode_summary">پشکنینی هەستەوەری نزیکی پێش هەڵبوونی ڕوونما بۆ دڵنیابوونەوە لە نەبوونی هەڵە پەنجەمۆرەوە</string>
+    <string name="fingerprint_sleep_title">کوژانەوە بە پەنجەمۆر</string>
+    <string name="fingerprint_sleep_summary">هەستەوەری پەنجەمۆر داگرە بۆ کوژانەوەی ڕوونماکەت</string>
+    <string name="high_touch_sensitivity_title">هەستیاری دەسلێدانی بەرز</string>
+    <string name="high_touch_sensitivity_summary">هەستیاری دەسلێدان زیاد دەکات بەمەش ئەتوانی لەگەڵ دەسکێش مۆبایلەکەت بەکاربهێنی</string>
+    <string name="device_title">ڕێکخستنی زیاتری ئامێر</string>
+    <string name="device_summary">ڕێککردنی ڕێکخستنە تایبەتییەکانی ئامێر</string>
+    <string name="display_title">دۆخەکانی نیشاندان</string>
+    <string name="display_summary">ڕێککردنی ڕێکخستنەکان و هەڵبژاردەکان بۆ پیشاندان</string>
+    <string name="srgb_mode_title">دۆخی sRGB</string>
+    <string name="hbm_mode_title">دۆخی ڕووناکی بەرز</string>
+    <string name="dc_mode_title">DC-Dimming</string>
+    <string name="dci_mode_title">پیشاندان-P3</string>
+    <string name="Wide_mode_title">پەیژەی فراوانی ئەمۆلید</string>
+    <string name="panel_category_title">دۆخەکانی تەختە</string>
+    <string name="panel_category_summary">دۆخەکانی تەختەی ڕاستکردنەوەی ڕەنگ</string>
+    <string name="off_mode_title">ناکارا</string>
+    <string name="tile_panel_mode">دۆخەکانی تەختە</string>
+    <string name="tile_hbm_mode">دۆخی ڕووناکی بەرز</string>
+    <string name="tile_dc_mode">DC-Dimming</string>
+    <string name="notification_slider_category_title">تەختەی ئاگانامە</string>
+    <string name="notification_slider_selection_dialog_title">کردار</string>
+    <string name="notification_slider_top_position">ناوچەی سەرەوە</string>
+    <string name="notification_slider_middle_position">ناوچەی ناوەند</string>
+    <string name="notification_slider_bottom_position">ناوچەی خوارەوە</string>
+    <string name="notification_slider_mode_total_silence">کپبوونی گشتی</string>
+    <string name="notification_slider_mode_alarms_only">تەنها ووریاکەرەوە</string>
+    <string name="notification_slider_mode_priority_only">تەنها پیشەیی</string>
+    <string name="notification_slider_mode_silent">بێدەنگ</string>
+    <string name="notification_slider_mode_vibrate">لەرزین</string>
+    <string name="notification_slider_mode_none">ئاسایی</string>
+    <string name="buttons_dashboard_summary">ڕێکخستنی تەختەی ووریاکەرەوە</string>
+    <string name="category_vibrator">لەرزاندن</string>
+    <string name="vib_strength_title_head">توندی سیستەم</string>
+    <string name="vib_strength_summary_head">پێناسەکردنی ڕادەی توندی لەرزینەوە</string>
+    <string name="vib_call_strength_title_head">توندی پەیوەندی</string>
+    <string name="vib_call_strength_summary_head">پێناسەکردنی توندی لەرزینەوە لەکاتی هاتنی پەیوەندی</string>
+    <string name="vib_notif_strength_title_head">توندی ئاگانامە</string>
+    <string name="vib_notif_strength_summary_head">پێناسەکردنی توندی لەرزینەوە لەکاتی هاتنی ئاگانامەدا</string>
+    <string name="pulse_on_new_tracks_title">بلیتی میوزیکی ڕوونمای زیندوو</string>
+    <string name="pulse_on_new_tracks_summary">پیشاندانی ڕوونمای زیندوو کاتێ تراکێکی میوزیکی کارپێکرا</string>
+    <string name="quick_charge_title">بارگاویکەری خێرا</string>
+    <string name="quick_charge_summary">چەسپاندنی بارگاویکردنی خێرا. بارگاویکەر دەرکە و بیخەوە لەدوای گۆڕینی ئەم ڕێکخستنە</string>
+    <string name="camera_focus_fix_title">چارەکردنی سەرنجدانی کامێرا</string>
+    <string name="camera_focus_fix_summary">کارای بکە گەر کێشەت لەگەڵ سەرنجدانی کامێراکەدا هەبوو</string>
+</resources>
